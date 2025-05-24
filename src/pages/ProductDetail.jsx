@@ -84,7 +84,7 @@ function ProductDetail() {
                 <p className="product-detail-brand">
                     Brand: <span>{product.brand}</span>
                 </p>
-                <p className="product-detail-price">Price : <span>${product.price}</span> ({product.discountPercentage}% off) <span></span></p>
+                <p className="product-detail-price">Price : <span>₹{product.price}</span> ({product.discountPercentage}% off) <span></span></p>
 
                 <p className="product-detail-rating">Rating: <span><Rating rating={product.rating} /></span></p>
                 <div className="product-detail-description">
