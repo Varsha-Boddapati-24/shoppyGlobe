@@ -66,7 +66,7 @@ Built with React, Redux Toolkit, React Router, and styled using custom CSS.
 
 
 ##  Live Demo
-Check out my shoppyGlobe live here: **[shoppyGlobe](https://digital-library-system.netlify.app/)**
+Check out my shoppyGlobe live here: **[shoppyGlobe](https://shoppy-globe-app.netlify.app/)**
 
 ##  Contact Me
  **Email:** varshaboddapati24@gmail.com     
