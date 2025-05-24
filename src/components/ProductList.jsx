@@ -19,6 +19,7 @@ function ProductList() {
     useEffect(() => {
         if (products.length > 0 && location.pathname === '/') {
             setFiltered(products);
+            setSearchTerm(""); 
         }
     }, [products,location]);
  // Handle typing in search input, update local search term state

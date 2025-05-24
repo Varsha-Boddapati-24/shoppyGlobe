@@ -22,7 +22,7 @@ function Checkout() {
 
     // User address state (default values pre-filled)
     const [address, setAddress] = useState({
-        name: "John Doe",
+        name: "varsha",
         phone: "9876543210",
         address: "123, MG Road, Bangalore, Karnataka, 560001",
     });
