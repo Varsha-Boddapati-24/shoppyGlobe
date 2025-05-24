@@ -1,4 +1,4 @@
-import "./ProductItem.css"
+import "./Productitem.css"
 import { Link } from "react-router-dom";
 import Rating from "./Rating";
 import { incrementQuantity,decrementQuantity,addToCart} from "../store/cartSlice";
